@@ -22,7 +22,8 @@ I'm currently trying to learn new things from THM/HTB/portswigger/cyberwarfarela
 
 
 # Sample Pentest Report
-<a href="bl4cknr3d.github.io/PDF/Wreath - Penetration Testing Report.pdf" target="_blank">Wreath Report.</a>
+<a href="bl4cknr3d.github.io/PDF/Wreath - Penetration Testing Report.pdf" target="_blank">Wreath Report</a>
+{{ site.baseurl }}/PDF/Wreath - Penetration Testing Report.pdf
 
 # Simple CTF Writeups
 https://medium.com/@bl4cknr3d
