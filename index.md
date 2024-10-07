@@ -21,10 +21,10 @@ I'm currently trying to learn new things from THM/HTB/portswigger/cyberwarfarela
 </dl>
 
 
-# Sample Reports
+# Sample Pentest Report
 <a href="bl4cknr3d.github.io/PDF/Wreath - Penetration Testing Report.pdf" target="_blank">Wreath Report.</a>
 
-# Simple Writeups
+# Simple CTF Writeups
 https://medium.com/@bl4cknr3d
 
 ```
