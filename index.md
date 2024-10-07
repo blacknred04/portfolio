@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 # About Me
 
 Hi I'm Ed. Just a normal guy from PH who wants to learn hacking. I am a former Mid-Network Engineer with 6 years of IT experience. 
