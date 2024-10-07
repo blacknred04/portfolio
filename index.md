@@ -10,14 +10,9 @@ I'm currently trying to learn new things from THM/HTB/portswigger/cyberwarfarela
 <!--### Definition lists can be used with HTML syntax..-->
 
 <dl>
-<dt>Name</dt>
-<dd>Edward Brian</dd>
-<dt>College</dt>
-<dd>De La Salle University - Dasmariñas</dd>
-<dt>Hobby</dt>
-<dd>Cycling</dd>
-<dt>Loves</dt>
-<dd>Dogs</dd>
+<dt>Name: Edward</dt>
+<dt>Hobby: Cycling</dt>
+<dt>Loves: Dogs</dt>
 </dl>
 
 
