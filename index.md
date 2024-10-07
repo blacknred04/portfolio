@@ -10,9 +10,7 @@ Hi I'm Ed. Just a normal guy from PH who wants to learn hacking. I am a former M
 
 <dl>
 <dt>Name</dt>
-<dd>Edward Brian Reyes</dd>
-<dt>Born</dt>
-<dd>1993</dd>
+<dd>Edward Brian</dd>
 <dt>College</dt>
 <dd>De La Salle University - Dasmariñas</dd>
 <dt>Hobby</dt>
@@ -26,7 +24,7 @@ Hi I'm Ed. Just a normal guy from PH who wants to learn hacking. I am a former M
 
 Sample Reports
 
-Wreath(./another-page.html).
+[Wreath](./another-page.html).
 
 
 
