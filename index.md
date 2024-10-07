@@ -9,16 +9,14 @@ I'm currently trying to learn new things from THM/HTB/portswigger/cyberwarfarela
 <!--### Definition lists can be used with HTML syntax..-->
 
 <dl>
-<dt>Name: Edward</dt>
-<dt>Hobby: Cycling</dt>
-<dt>Loves: Dogs</dt>
 <dt>Certfications</dt>
   <dd>INE Security - eLearning Junior Penetration Tester</dd>
   <dd>CISCO - Certified CyberOps Associate</dd>
   <dd>CISCO - Certified Network Associate</dd>
   <dd>QUALYS - Vulnerability Management and Response	</dd>
+<dt>Hobby: Cycling</dt>
+<dt>Loves: Dogs</dt>
 </dl>
-
 
 # Sample Pentest Report
 <a href="https://github.com/blacknred04/bl4cknr3d.github.io/blob/main/PDF/Wreath%20-%20Penetration%20Testing%20Report.pdf" target="_blank">Wreath Report</a>
