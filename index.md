@@ -13,6 +13,11 @@ I'm currently trying to learn new things from THM/HTB/portswigger/cyberwarfarela
 <dt>Name: Edward</dt>
 <dt>Hobby: Cycling</dt>
 <dt>Loves: Dogs</dt>
+<dt>Certfications</dt>
+  <dd>INE Security - eLearning Junior Penetration Tester</dd>
+  <dd>CISCO - Certified CyberOps Associate</dd>
+  <dd>CISCO - Certified Network Associate</dd>
+  <dd>QUALYS - Vulnerability Management and Response	</dd>
 </dl>
 
 
