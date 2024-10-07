@@ -4,7 +4,8 @@ layout: default
 
 # About Me
 
-Hi I'm Ed. Just a normal guy from PH who wants to learn hacking. I am a former Mid-Network Engineer with 6 years of IT experience.
+Hi I'm Ed. Just a normal guy from PH who wants to learn hacking. I am a former Mid-Network Engineer with 6 years of IT experience. 
+I'm currently trying to learn new things from THM/HTB/portswigger/cyberwarfarelabs and thru CTFs from picoCTF/overthewire/hacker101
 
 <!--### Definition lists can be used with HTML syntax..-->
 
@@ -20,13 +21,13 @@ Hi I'm Ed. Just a normal guy from PH who wants to learn hacking. I am a former M
 </dl>
 
 
-# About Me
-
-Sample Reports
+# Sample Reports
 
 [Wreath](./another-page.html).
 
 
+# Simple Writeups
+https://medium.com/@bl4cknr3d
 
 ```
 GuideM Alumni.
