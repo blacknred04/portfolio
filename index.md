@@ -19,7 +19,7 @@ I'm currently trying to learn new things from THM/HTB/portswigger/cyberwarfarela
 </dl>
 
 # Sample Pentest Report
-<a href="https://github.com/blacknred04/bl4cknr3d.github.io/blob/main/PDF/Wreath%20-%20Penetration%20Testing%20Report.pdf" target="_blank">Wreath Report</a>
+<a href="https://github.com/blacknred04/bl4cknr3d.github.io/blob/main/PDF/Wreath%20-%20Penetration%20Testing%20Report.pdf" target="_blank">Wreath Pentest Report</a>
 
 # Simple CTF Writeups
 <p><a href="https://medium.com/@bl4cknr3d/tryhackme-cyborg-easy-writeup-4374b70a870d" target="_blank" rel="nofollow"> TryHackMe | Cyborg | Easy | WriteUp </a></p>
