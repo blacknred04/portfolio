@@ -33,6 +33,7 @@ I'm currently trying to learn new things from THM/HTB/portswigger/cyberwarfarela
 
 # Blog where I publish my writeups
 https://medium.com/@bl4cknr3d
+https://x.com/b14cknr3d
 
 
 <!--saf-->
