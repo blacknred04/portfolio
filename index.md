@@ -31,9 +31,9 @@ I'm currently trying to learn new things from THM/HTB/portswigger/cyberwarfarela
 <p><a href="https://medium.com/@bl4cknr3d/hackthebox-unified-easy-writeup-b3eb38be7a44" target="_blank" rel="nofollow"> hackthebox | twomillion | Easy | Writeup </a></p>
 <p><a href="https://medium.com/@bl4cknr3d/hackthebox-bizness-easy-writeup-8e006cf37b3f" target="_blank" rel="nofollow"> hackthebox | Bizness | Easy | Writeup </a></p>
 
-# Blog where I publish my writeups
-https://medium.com/@bl4cknr3d
-https://x.com/b14cknr3d
+# Pages where I publish my writeups
+<p> https://medium.com/@bl4cknr3d </p>
+<p> https://x.com/b14cknr3d </p>
 
 
 <!--saf-->
