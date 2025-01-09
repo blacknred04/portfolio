@@ -40,4 +40,6 @@ I'm currently trying to learn new things from THM/HTB/portswigger/cyberwarfarela
 ```
 GuideM Alumni from 2019.
 ```
+<img src="https://tryhackme-badges.s3.amazonaws.com/blacknred04.png" alt="TryHackMe Badge" />
+
 
