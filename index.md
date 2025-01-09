@@ -35,11 +35,13 @@ I'm currently trying to learn new things from THM/HTB/portswigger/cyberwarfarela
 <p> https://medium.com/@bl4cknr3d </p>
 <p> https://x.com/b14cknr3d </p>
 
+# TryHackMe Badge
+<img src="https://tryhackme-badges.s3.amazonaws.com/blacknred04.png" alt="TryHackMe Badge" />
 
 <!--saf-->
 ```
-GuideM Alumni from 2019.
+GuideM 2018 Alumni
 ```
-<img src="https://tryhackme-badges.s3.amazonaws.com/blacknred04.png" alt="TryHackMe Badge" />
+
 
 
