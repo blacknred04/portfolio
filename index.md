@@ -30,6 +30,7 @@ I'm currently trying to learn new things from THM/HTB/portswigger/cyberwarfarela
 <p><a href="https://medium.com/@bl4cknr3d/picoctf-trickster-medium-writeup-dda7e0bfc816" target="_blank" rel="nofollow"> picoCTF | Trickster | Medium | Writeup </a></p>
 <p><a href="https://medium.com/@bl4cknr3d/hackthebox-unified-easy-writeup-b3eb38be7a44" target="_blank" rel="nofollow"> hackthebox | twomillion | Easy | Writeup </a></p>
 <p><a href="https://medium.com/@bl4cknr3d/hackthebox-bizness-easy-writeup-8e006cf37b3f" target="_blank" rel="nofollow"> hackthebox | Bizness | Easy | Writeup </a></p>
+<p><a href="https://medium.com/@bl4cknr3d/hackthebox-evilcups-easy-writeup-4b8783a0041b" target="_blank" rel="nofollow"> hackthebox | EvilCUPS | Medium | Writeup </a></p>
 
 # Pages where I publish my writeups
 <p> https://medium.com/@bl4cknr3d </p>
