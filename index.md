@@ -32,8 +32,8 @@ I'm currently trying to learn new things from THM/HTB/portswigger/cyberwarfarela
 <p><a href="https://medium.com/@bl4cknr3d/hackthebox-bizness-easy-writeup-8e006cf37b3f" target="_blank" rel="nofollow"> hackthebox | Bizness | Easy | Writeup </a></p>
 <p><a href="https://medium.com/@bl4cknr3d/hackthebox-evilcups-easy-writeup-4b8783a0041b" target="_blank" rel="nofollow"> hackthebox | EvilCUPS | Medium | Writeup </a></p>
 
-<p><a href="https://medium.com/@bl4cknr3d/twine-nahamcon-ctf-2024-808a79dc798c" target="_blank" rel="nofollow"> Twine | NahamCon CTF 2024 | Easy </a></p>
-<p><a href="https://medium.com/@bl4cknr3d/quadrant-vishwactf-2025-steganography-easy-09338b71e6ff" target="_blank" rel="nofollow"> QuadRant | VishwaCTF 2025 | Steganography | Easy </a></p>
+<p><a href="https://medium.com/@bl4cknr3d/twine-nahamcon-ctf-2024-808a79dc798c" target="_blank" rel="nofollow">  NahamCon CTF 2024 | Twine | Easy </a></p>
+<p><a href="https://medium.com/@bl4cknr3d/quadrant-vishwactf-2025-steganography-easy-09338b71e6ff" target="_blank" rel="nofollow"> VishwaCTF 2025 | QuadRant | Steganography | Easy </a></p>
 
 # Pages where I publish my writeups
 <p> https://medium.com/@bl4cknr3d </p>
